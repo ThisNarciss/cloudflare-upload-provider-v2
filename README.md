@@ -1,7 +1,7 @@
 # cloudflare-upload-provider-v2
 
-[![npm version](https://img.shields.io/npm/v/strapi-provider-upload-cloudflare-2.svg)](https://www.npmjs.org/package/cloudflare-upload-provider-v2)
-[![npm downloads](https://img.shields.io/npm/dm/strapi-provider-upload-cloudflare-2.svg)](https://www.npmjs.org/package/cloudflare-upload-provider-v2)
+<!-- [![npm version](https://img.shields.io/npm/v/strapi-provider-upload-cloudflare-2.svg)](https://www.npmjs.org/package/cloudflare-upload-provider-v2) -->
+<!-- [![npm downloads](https://img.shields.io/npm/dm/strapi-provider-upload-cloudflare-2.svg)](https://www.npmjs.org/package/cloudflare-upload-provider-v2) -->
 
 **Non-Official** Cloudflare Images and Video Upload Provider for Strapi
 

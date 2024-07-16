@@ -11,10 +11,10 @@ This has only been tested with Strapi 4.
 
 ```bash
 # using yarn
-yarn add strapi-provider-upload-cloudflare-2
+yarn add cloudflare-upload-provider-v2
 
 # using npm
-npm install strapi-provider-upload-cloudflare-2
+npm install cloudflare-upload-provider-v2
 ```
 
 ## Configurations
@@ -32,11 +32,10 @@ module.exports = ({ env }) => ({
   // ...
   upload: {
     config: {
-      provider: "strapi-provider-upload-cloudflare-2",
+      provider: "cloudflare-upload-provider-v2",
       providerOptions: {
         accountId: env("STRAPI_UPLOAD_CLOUDFLARE_ACCOUNT_ID"),
         apiKey: env("STRAPI_UPLOAD_CLOUDFLARE_API_KEY"),
-        variant: "cms",
       },
     },
   },

@@ -1,6 +1,6 @@
 {
   "name": "cloudflare-upload-provider-v2",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "keywords": [
     "upload",
     "cloudflare",
@@ -34,7 +34,7 @@
     "lint": "eslint --fix \"src/**/*.js\"",
     "lint:format": "prettier --write \"./**/*.{js,json,yml,yaml,css,scss,md,mdx,html}\""
   },
-  "author": "Sanjay Thakur",
+  "author": "ThisNarciss",
   "license": "MIT",
   "dependencies": {
     "cloudflare-upload-provider-v2": "^1.1.0",
